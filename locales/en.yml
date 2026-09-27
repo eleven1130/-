@@ -70,11 +70,6 @@ tools:
     measurement: Measurement
     text: Text
     data: Data
-    campus: Campus
-
-  schedule-free-time:
-    title: Schedule free-time calculator
-    description: Paste your timetable to compute daily free slots and find common free time across multiple people, with consecutive-class fragment merging.
 
   password-strength-analyser:
     title: Password strength analyser
