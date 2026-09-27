@@ -70,6 +70,11 @@ tools:
     measurement: '测量'
     text: '文本'
     data: '数据'
+    campus: '校园'
+
+  schedule-free-time:
+    title: 课表空闲时段计算
+    description: 粘贴课表自动算出每天的空闲时段，并支持多人共同空闲时间，连堂课碎片自动合并。
 
   password-strength-analyser:
     title: 密码强度分析仪
